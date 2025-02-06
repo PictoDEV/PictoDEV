@@ -9,9 +9,3 @@
 
 
 
-
-
-- 🔭 Im currently working on an Open-source App store and a few games.
-- 🌱 I’m currently learning quantam computing and game dev.
-
--->
