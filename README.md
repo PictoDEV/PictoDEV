@@ -8,10 +8,8 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-<!--
-**PictoDEV/PictoDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 Im currently working on an Open-source App store and a few games.
 - 🌱 I’m currently learning quantam computing and game dev.
