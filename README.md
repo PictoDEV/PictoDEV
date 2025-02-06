@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PictoDEV)](https://github.com/PictoDEV/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PictoDEV&theme=tokyonight)](https://github.com/PictoDEV/github-readme-stats)
 <!--
 **PictoDEV/PictoDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
