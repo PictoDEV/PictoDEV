@@ -3,7 +3,7 @@
 
 I am a student developer who is ->
 
-Currently learning Golang, API dev and a lot of other things.
+Currently learning Golang, API dev and a lot of other things.package main<br>
 I actively program in Python.
 Currentley building cool web apps.
 I like Quantam Computing library such as Qiskit.
